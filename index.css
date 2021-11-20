@@ -1,0 +1,38 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+label{
+    margin-left: auto;
+}
+textarea{
+    display: flexbox;
+
+ width: 49% ;
+ height: 500px;
+}
+h1{
+    text-align: center;
+    
+}
+.textos{
+    justify-content: center;
+}
+p{
+    text-align: center;
+    
+}
+
+#valoresL{
+   float: left;
+    margin-left: 12%;
+    font-size: 2em;
+}
+#DatosSalidaL{
+    float: right;
+    margin-right: 18%;
+    font-size: 2em;
+ }
+#peligro{
+    color: crimson;
+}
