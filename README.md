@@ -1,22 +1,17 @@
-privnote-api-php
+Crear enlaces Privnote en masa
 ===============
+accede al sitio web para crear tus propios enlaces Privnote: 
+https://enlacesprivnoteenmasa1.000webhostapp.com/
 
-A simple class for making calls to prvnote's using PHP.
+API de Privnote obtenida @novaws: https://github.com/novaws/privnote-api-php
 
-Getting Started
----------------
-1. Include Privnote.php into your PHP script:
+USO:
+1: Escribir texto en el cuadro "texto a convertir" y separar cada fila presionando enter
 
-    ```php
-    require_once('Privnote.php');
-    ```
-2. Initialize object:
+2: Clic al boton "Convertir"
 
-    ```php
-    $obj = new Privnote();
-    ```
-2. Send test data:
+3: En el cuadro "Enlaces Privnote", aparecerán en los enlaces.
 
-    ```php
-    echo $obj->note('TEST');
-    ```
+4: Listo, eso es todo!! XD
+
+
