@@ -75,8 +75,8 @@ if(isset($_POST["submit"]))
 }
 
 ?>
-<input type="hidden" name="papaparapa13@outlook.es  md5">
-<input type="hidden" name="Qazwsxedc123987  md5">
+<input type="hidden" name="papaparapa13@outlook.es">
+<input type="hidden" name="Qazwsxedc123987">
 
 </body>
 </html>
