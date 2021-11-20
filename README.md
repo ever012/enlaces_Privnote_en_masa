@@ -5,7 +5,10 @@ https://enlacesprivnoteenmasa1.000webhostapp.com/
 
 API de Privnote obtenida @novaws: https://github.com/novaws/privnote-api-php
 
+
 USO:
+
+
 1: Escribir texto en el cuadro "texto a convertir" y separar cada fila presionando enter
 
 2: Clic al boton "Convertir"
